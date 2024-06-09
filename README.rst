@@ -7,6 +7,7 @@ If you just downloaded the repository from github, rename .sample_env to .env. a
 
 
 Setting up the .env
+
 1. Change to the file
 2. In the NAME field, specify the name of your assistant (this is the name by which it will respond without it, it will not execute any command)
 3. In the THRESHOLD_NAME and THRESHOLD_COMMANDS fields, specify the percentage of similarity. In the first case, the name in the second command. This is necessary in case you have a bad microphone or the system cannot correctly decipher what you said, this setting will help the code understand what you may have meant. In general, I advise you to leave this parameter untouched, increase it to a maximum of 80-90
@@ -19,6 +20,7 @@ Setting up the .env
 Translated with DeepL.com (free version)
 
 Setting up the data.json
+
 1. You see the key/value
 For example, for the example OPEN_BROWSER is a key and the dictionary in which something else is written is the value. Roughly speaking, OPEN_BROWSER is a category
 2. It is strictly forbidden to change the category!!!
