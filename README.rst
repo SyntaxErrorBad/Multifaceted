@@ -21,8 +21,8 @@ Translated with DeepL.com (free version)
 
 Setting up the data.json
 
-1. You see the key/value
-For example, for the example OPEN_BROWSER is a key and the dictionary in which something else is written is the value. Roughly speaking, OPEN_BROWSER is a category
+1. You see the key/value. For example, for the example OPEN_BROWSER is a key and the dictionary in which something else is written is the value. Roughly speaking, OPEN_BROWSER is a category
+
 2. It is strictly forbidden to change the category!!!
-3. In order to add your own command, just replace the text ‘command for ...’ with the one you want. in another field followed by ‘:’ you need to specify other data (what these data depend on the field, so read carefully!)
+3. In order to add your own command, just replace the text "command for ..." with the one you want. in another field followed by ":" you need to specify other data (what these data depend on the field, so read carefully!)
 4. If there is a note in another field (you can create several), it means that you can create many commands of the same type in this group. For example, if you take the group from the example of paragraph 1, you can create many commands, for example, to open YouTube, telegram, moodle and more
